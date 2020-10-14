@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Manish!](https://manu05x.github.io/manu005/) 
 
 [![Linkedin: manishkumar005](https://img.shields.io/badge/-manishkumar005-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manishkumar005/)](https://www.linkedin.com/in/manishkumar005//)
-[![GitHub manu05X](https://img.shields.io/github/followers/manu05Xt?label=follow&style=social)](https://github.com/manu05X)
+[![GitHub manu05X](https://img.shields.io/github/followers/manu06X?label=follow&style=social)](https://github.com/manu05X)
 [![My Site](https://img.shields.io/badge/-MySite-black?style=flat-squarelink=https://manu005.herokuapp.com/)](https://manu005.herokuapp.com/)
 
 
