@@ -12,7 +12,8 @@ Hi, I'm Manish,  I enjoy working on Software Application and Data Science projec
 - 👯 I’m looking for new opportunities in Software Engineering and Data Science.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: k.manu00005@gmail.com
-- :heart: Open Source
+
+My area of interestes are:  Problem Solving✨, Full Stack Dev 📱, Data Science 👯
 
 **Languages and Tools:** 
 
