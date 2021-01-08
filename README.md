@@ -4,6 +4,7 @@
 [![GitHub manu05X](https://img.shields.io/github/followers/manu05X?label=follow&style=social)](https://github.com/manu05X)
 [![My Site](https://img.shields.io/badge/-MySite-black?style=flat-squarelink=https://manu005.herokuapp.com/)](https://manu005.herokuapp.com/)
 
+<img align="right" alt="GIF" src="https://github.com/manu005/manu005/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Hi, I'm Manish,  I enjoy working on Software Application and Data Science projects.
 
