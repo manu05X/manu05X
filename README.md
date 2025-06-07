@@ -1,7 +1,7 @@
 # Hi there, I'm Manish Kumar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+II+@+Nike;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=600&height=100&lines=SDE+II+@+Nike;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
